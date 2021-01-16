@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Toni-Lynn Ibara",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://tlibara.github.io/images/Toni-Lynn.jpg",
+    "email": "tlibara@hawaii.edu",
+    "phone": "",
+    "website": "https://tlibara.github.io",
+    "summary": "I am studying for a B.B.A. in Finance and Management Information Systems in the Shidler College of Business at the University of Hawaii at Manoa. I expect to graduate in Spring 2022.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,41 +17,29 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "tlibara",
+        "url": "http://github.com/tlibara"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "toni-Lynn-ibara",
+        "url": "http://linkedin.com/in/toni-lynn-ibara"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Surfing",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Traveling",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Sewing",
       "keywords": [
       ]
     }
