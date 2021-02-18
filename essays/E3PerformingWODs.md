@@ -9,7 +9,7 @@ labels:
  - Essay
 ---
 
-The last WOD I have completed allowed me to run JavaScript and HTML at the same time. I created an invoice for five different products and inputted codes that connected the information to each other. I learned how to use the variable functions and how to link it into a table because when one data is changed, the rest of the codes can be updated. In this WOD, we used a cancel out function so we can see the description (comment) but it will not run with the rest of the codes. For further information, here is a link to the description page: https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html .
+The last WOD I have completed allowed me to run JavaScript and HTML at the same time. I created an invoice for five different products and inputted codes that connected the information to each other. I learned how to use the variable functions and how to link it into a table because when one data is changed, the rest of the codes can be updated. In this WOD, we used a cancel out function so we can see the description (comment) but it will not run with the rest of the codes. For further information, here is a link to the description page: https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html 
 
 Before performing the WOD, I read through the all the instructions and I did all the JavaScript readings assigned. The things that I did similar to the other WODs was performing the WOD before watching the screencast and I timed myself while doing it. The things that I did differently was doing the WOD before finishing our last Lab because we had not practiced some functions needed to complete the WOD, and that is the part I got stuck on. 
 
